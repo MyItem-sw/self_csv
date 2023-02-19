@@ -1,0 +1,1160 @@
+.java	lead to	local information disclosure 
+adobe acrobat 	lead to	arbitrary file system write 
+.cc	lead to	local escalation 
+0.1	lead to	later 
+adobe acrobat 	lead to	information disclosure 
+adobe bridge versions .0 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+consumption	lead to	denial of service 
+convert	lead to	memory leak 
+adobe flash player versions .0 .207 	lead to	arbitrary code execution 
+initialization	lead to	remote information disclosure 
+.cc	lead to	local information disclosure 
+adobe acrobat 	lead to	information disclosure 
+adobe flash player versions .0 .207 	lead to	arbitrary code execution 
+prototype pollution vulnerability 	lead to	remote code execution 
+bounds	lead to	local information disclosure 
+injection	lead to	remote code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+chip	lead to	local information disclosure 
+.cc	lead to	local information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe flash player versions .0 .205 	lead to	arbitrary code execution 
+bounds	lead to	remote code execution 
+state	lead to	universal cross site scripting 
+read	lead to	arbitrary code execution 
+google chrome 	lead to	stale pointer 
+control	lead to	remote disclosure 
+adobe acrobat 	lead to	privilege escalation 
+adobe acrobat 	lead to	arbitrary code execution 
+0.3	lead to	open redirect 
+impd_drc_static_payload	lead to	remote code execution 
+regfilter .sys 	lead to	denial of service 
+0.2	lead to	security 
+issue	lead to	arbitrary remote code execution 
+prototype pollution vulnerability 	lead to	remote code execution 
+adobe flash player versions .0 .221 	lead to	arbitrary code execution 
+lack 	lead to	buffer flow 
+oob	lead to	local information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+rw_t2t_ndef	lead to	remote code execution 
+restoration	lead to	remote information disclosure 
+memory	lead to	local escalation 
+execution	lead to	out 
+bbs	lead to	use 
+google chrome 	lead to	stale pointer 
+adobe bridge versions .0 	lead to	arbitrary code execution 
+bounds	lead to	information disclosure 
+condition	lead to	use 
+adobe acrobat 	lead to	arbitrary code execution 
+security	lead to	buffer overread 
+adobe digital editions versions .5 	lead to	arbitrary code execution 
+engine	lead to	information disclosure 
+impd_drc_dynamic_payload	lead to	remote code execution 
+synaptics_dsx_htc	lead to	local escalation 
+adobe digital editions versions .5 	lead to	information disclosure 
+bounds	lead to	information disclosure 
+adobe	lead to	sensitive 
+exists	lead to	code execution 
+control	lead to	disclosure 
+checks	lead to	s/mime signature spoofing 
+buffer overflow 	lead to	escalation 
+adobe acrobat 	lead to	security feature bypass 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	security feature bypass 
+adobe acrobat 	lead to	arbitrary code execution 
+leak	lead to	remote information disclosure 
+corruption	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+0	lead to	complete compromise 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+command	lead to	code execution 
+display	lead to	denial of service 
+android	lead to	device node 
+adobe photoshop cc versions .0 	lead to	arbitrary code execution 
+function	lead to	buffer over-read 
+adobe acrobat 	lead to	arbitrary code execution 
+version	lead to	denial of service 
+code	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+vulnerability	lead to	remote code execution 
+resource	lead to	remote denial 
+corruption	lead to	arbitrary code execution 
+extension	lead to	bounds 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe photoshop cc versions .1 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+command	lead to	overflow 
+nvidia gpu display driver vulnerability 	lead to	denial of service 
+vulnerability	lead to	buffer overflow 
+mpeg4extractor	lead to	remote denial 
+bgp	lead to	remote code execution 
+identity	lead to	information disclosure 
+adobe acrobat reader versions .0 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+bounds	lead to	local escalation 
+adobe photoshop cc versions .0 	lead to	arbitrary code execution 
+read	lead to	arbitrary code execution 
+binder	lead to	local escalation 
+disclosure	lead to	kernel address space layout randomization 
+filesystem	lead to	denial of service 
+server	lead to	local escalation 
+adobe acrobat 	lead to	information disclosure 
+bnep_main	lead to	remote information disclosure 
+handling	lead to	arbitrary code execution 
+grantcredentialspermissionactivity	lead to	local escalation 
+adobe acrobat 	lead to	arbitrary code execution 
+termination	lead to	remote denial 
+directory	lead to	cross-site scripting 
+adobe versions .7 	lead to	sensitive information disclosure 
+vulnerability	lead to	module crash 
+adobe photoshop cc versions .0 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+information	lead to	remote information disclosure 
+firewall	lead to	device deny 
+hshow	lead to	code execution 
+issue	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+google chrome 	lead to	stale pointer 
+corruption	lead to	arbitrary code execution 
+phoneinterfacemanager	lead to	local information disclosure 
+exists	lead to	out-of-bounds write 
+corruption	lead to	arbitrary code execution 
+version	lead to	privilege escalation 
+incorrect bound check 	lead to	potential buffer overwrite 
+0	lead to	dos condition 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+avrc_pars_ct	lead to	remote information disclosure 
+adobe flash player versions .0 .221 	lead to	arbitrary code execution 
+security	lead to	buffer 
+adobe photoshop cc versions .1 	lead to	arbitrary code execution 
+interface	lead to	address bar spoofing 
+corruption	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+bounds	lead to	local escalation 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe flash player .0 .113 	lead to	information disclosure 
+prototype pollution vulnerability 	lead to	remote code execution 
+adobe experience manager versions .4 .3 .2 .1 	lead to	sensitive information disclosure 
+security	lead to	unauthorized memory access 
+traversal	lead to	arbitrary file 
+fpc_ta_hw_auth	lead to	local escalation 
+adobe flash player versions .0 .207 	lead to	arbitrary code execution 
+service	lead to	code injection 
+magento versions .3 	lead to	arbitrary code execution 
+.java	lead to	local escalation 
+adobe acrobat 	lead to	arbitrary code execution 
+onedev all-in-one devops platform 	lead to	arbitrary file read 
+adobe photoshop cc versions .0 	lead to	arbitrary code execution 
+function	lead to	data 
+adobe bridge versions .0 	lead to	arbitrary code execution 
+excel	lead to	modification 
+nvidia vgpu driver vulnerability 	lead to	denial of service 
+.cpp	lead to	remote information disclosure 
+networks	lead to	routing process daemon 
+adobe acrobat 	lead to	information disclosure 
+google chrome 	lead to	stale 
+cisco	lead to	denial of service 
+adobe acrobat 	lead to	arbitrary code execution 
+bounds	lead to	remote information disclosure 
+server	lead to	spoofing 
+adobe acrobat reader versions .0 	lead to	arbitrary code execution 
+security	lead to	arbitrary writing 
+adobe flash player versions .0 .186 	lead to	arbitrary code execution 
+microsys promotic .2 .13 activex control overflow vulnerability 	lead to	denial of service 
+nvidia gpu display driver vulnerability 	lead to	denial of service 
+adobe acrobat 	lead to	arbitrary code execution 
+display	lead to	code execution 
+implementation	lead to	gigantic compression ratio 
+vlan_dev .c 	lead to	function call 
+injection	lead to	sql injection 
+nvs	lead to	denial of service 
+adobe acrobat 	lead to	arbitrary code execution 
+.cc	lead to	local information disclosure 
+driver	lead to	local information disclosure 
+adobe	lead to	sensitive 
+adobe acrobat 	lead to	arbitrary code execution 
+versions	lead to	arbitrary code execution 
+adobe flash player versions .0 .207 	lead to	arbitrary code execution 
+memory	lead to	local escalation 
+0	lead to	denial of service 
+corruption	lead to	arbitrary code execution 
+display	lead to	denial of service 
+.cpp	lead to	remote code execution 
+adobe acrobat reader versions .020 	lead to	arbitrary code execution 
+overflow	lead to	remote code execution 
+nvidia virtual gpu manager versions vulnerability 	lead to	denial of service 
+corruption	lead to	out-of-bounds write 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+avrc_pars_tg	lead to	local information disclosure 
+read	lead to	arbitrary code execution 
+adobe flash player versions .0 .205 	lead to	arbitrary code execution 
+0	lead to	denial-of-service 
+0.9	lead to	heap-based buffer over-read 
+leak	lead to	local information disclosure 
+injection	lead to	sql injection 
+dereference	lead to	dos 
+adobe photoshop versions cc 	lead to	arbitrary code execution 
+coldfusion versions 	lead to	privilege escalation 
+read	lead to	arbitrary code execution 
+security	lead to	buffer overflow 
+functions	lead to	local escalation 
+adobe photoshop cc versions .1 	lead to	memory leak 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe bridge versions .0 	lead to	information disclosure 
+vulnerability	lead to	xss attack 
+file	lead to	local escalation 
+use	lead to	local escalation 
+receipt 	lead to	remote code execution 
+desktop	lead to	denial of service 
+phnxpextns_mifarestd	lead to	local escalation 
+adobe acrobat 	lead to	arbitrary code execution 
+experience	lead to	denial of service 
+adobe flash player versions .0 .221 	lead to	arbitrary code execution 
+regfilter .sys 	lead to	denial of service 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+bounds	lead to	remote code execution 
+use 	lead to	full 
+data	lead to	local escalation 
+adobe dng software development kit sdk .5 	lead to	information disclosure 
+condition	lead to	kernel 
+bounds	lead to	remote information disclosure 
+overflow	lead to	denial of service 
+controller	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+memory	lead to	buffer overflow 
+magento versions .3 	lead to	sensitive information disclosure 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+.cpp	lead to	local escalation 
+.cpp	lead to	remote code execution 
+overflow	lead to	heap corruption 
+permission	lead to	local information disclosure 
+experience	lead to	denial of service 
+traversal	lead to	possible information disclosure 
+function	lead to	data 
+query	lead to	cross-site scripting 
+resource	lead to	remote denial 
+kernel	lead to	denial of service 
+abort	lead to	remote denial 
+bounds	lead to	local information disclosure 
+initialization	lead to	remote information disclosure 
+buffer	lead to	remote denial 
+adobe acrobat 	lead to	information disclosure 
+adobe framemaker versions .0 .4 	lead to	arbitrary code execution 
+kernel	lead to	out-of-bounds write 
+access	lead to	remote denial 
+issue	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+underflow	lead to	denial of service 
+excel	lead to	memory corruption 
+wifinetworksuggestionsmanager	lead to	local escalation 
+adobe acrobat 	lead to	information disclosure 
+corruption	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+bypass	lead to	local escalation 
+prototype pollution vulnerability 	lead to	remote code execution 
+jasper	lead to	disclosure of information 
+adobe acrobat 	lead to	arbitrary code execution 
+.java	lead to	local escalation 
+corruption	lead to	arbitrary code execution 
+read	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+avrc_pars_tg	lead to	remote code execution 
+squid .5 .stable9 	lead to	restrictive acls 
+kibana versions 	lead to	attacker 
+adobe acrobat 	lead to	arbitrary code execution 
+ibm infosphere information server stores sensitive information 	lead to	information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat reader versions .020 	lead to	arbitrary code execution 
+write	lead to	arbitrary code execution 
+adobe	lead to	sensitive 
+adobe acrobat 	lead to	arbitrary code execution 
+.java	lead to	local escalation 
+magento versions .3 	lead to	sensitive information disclosure 
+convert	lead to	heap-based buffer over-read 
+display	lead to	denial of service 
+adobe acrobat 	lead to	information disclosure 
+adobe flash player versions .0 .207 	lead to	arbitrary code execution 
+tomcat	lead to	users 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+read	lead to	arbitrary code execution 
+overflow	lead to	remote denial 
+0.19	lead to	csrf 
+decrypt	lead to	local escalation 
+ce_t4t	lead to	remote information disclosure 
+implementation	lead to	successful denial-of-service 
+adobe photoshop versions cc 	lead to	arbitrary code execution 
+cli	lead to	complete system compromise 
+execution	lead to	remote code execution 
+adobe flash player versions .0 .205 	lead to	arbitrary code execution 
+0.11	lead to	arbitrary code execution 
+editions	lead to	disclosure of memory 
+bounds	lead to	local information disclosure 
+bounds	lead to	local escalation 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+disclosure	lead to	kernel address space layout randomization 
+reference	lead to	unauthorized access 
+validation	lead to	cross site 
+issue	lead to	code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+guard	lead to	session hijacking 
+bounds	lead to	remote code execution 
+integer overflow 	lead to	heap-based buffer overflow 
+information	lead to	remote information disclosure 
+driver	lead to	use 
+0	lead to	credentials 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+adobe media versions .1 	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+versions	lead to	code execution 
+adobe 	lead to	arbitrary code execution 
+android	lead to	buffer overflow 
+subsystem	lead to	denial of service 
+.cpp	lead to	remote code execution 
+vulnerability	lead to	remote code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+nvidia vgpu manager vulnerability 	lead to	buffer overread 
+security	lead to	buffer overflow 
+adobe flash player versions .0 .186 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+bounds	lead to	local escalation 
+adobe digital editions versions .5 	lead to	information disclosure 
+security	lead to	buffer overflow 
+accountmanager	lead to	local escalation 
+magento versions .3 	lead to	arbitrary code execution 
+adobe acrobat reader versions .020 	lead to	arbitrary code execution 
+corruption	lead to	arbitrary code execution 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+function	lead to	information disclosure 
+.cpp	lead to	local escalation 
+adobe experience manager versions .2 	lead to	sensitive information disclosure 
+.cpp	lead to	local information disclosure 
+security	lead to	buffer overread 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+google chrome 	lead to	stale 
+philips e-alert unit non-medical device version r2 .1 	lead to	disclosure 
+0.7	lead to	buffer overflow 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+adobe digital editions versions .5 	lead to	arbitrary code execution 
+integer	lead to	authentication bypass 
+overflow	lead to	denial of service 
+vulnerability	lead to	arbitrary code execution 
+use	lead to	local escalation 
+buffer overflow 	lead to	registry corruption 
+experience	lead to	information disclosure 
+adobe flash player versions .0 .205 	lead to	arbitrary code execution 
+products	lead to	double 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+bounds	lead to	remote information disclosure 
+windows	lead to	denial of service 
+function	lead to	remote denial 
+php	lead to	use-after-free 
+read	lead to	arbitrary code execution 
+avdt_msg	lead to	local information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe flash player versions .0 .205 	lead to	arbitrary code execution 
+scalance	lead to	denial of service 
+adobe acrobat 	lead to	arbitrary code execution 
+vmware esxi .7 	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+execution	lead to	remote code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+overflow	lead to	crash 
+imagemagick	lead to	impact 
+display	lead to	denial of service 
+execution	lead to	remote code execution 
+execution	lead to	arbitrary code execution 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+.cc	lead to	local escalation 
+security	lead to	privilege escalation 
+.java	lead to	local information disclosure 
+android	lead to	race condition 
+adobe acrobat 	lead to	information disclosure 
+adobe	lead to	sensitive 
+functions	lead to	local escalation 
+.cc	lead to	local information disclosure 
+vulnerability	lead to	code execution 
+adobe	lead to	sensitive 
+0.7	lead to	null pointer dereference 
+read	lead to	arbitrary code execution 
+adobe bridge versions .0 	lead to	arbitrary code execution 
+formmail	lead to	execution 
+initialization	lead to	remote information disclosure 
+.sys	lead to	ring-0 code execution 
+adobe bridge versions .0 	lead to	arbitrary code execution 
+adobe photoshop cc versions .1 	lead to	arbitrary code execution 
+plugin	lead to	remote code execution 
+vulnerability	lead to	code execution 
+access	lead to	remote denial 
+android	lead to	kernel 
+adobe acrobat 	lead to	information disclosure 
+alarm	lead to	remote escalation 
+madwifi ad-hoc mode attackers 	lead to	kernel panic 
+x	lead to	privilege escalation vulnerability 
+adobe digital editions versions .5 	lead to	information disclosure 
+vulnerability	lead to	privilege escalation 
+products	lead to	memory corruption 
+rw_t3t	lead to	local escalation 
+core	lead to	local information disclosure 
+coldfusion versions coldfusion 	lead to	privilege escalation 
+nvidia gpu display driver 	lead to	denial of service 
+adobe versions .0 	lead to	arbitrary code execution 
+version	lead to	privilege escalation 
+bounds	lead to	remote information disclosure 
+hshow	lead to	code-execution 
+adobe acrobat 	lead to	information disclosure 
+.cpp	lead to	remote code execution 
+code	lead to	local escalation 
+android	lead to	security issue 
+eas_mdls	lead to	remote denial 
+adobe acrobat 	lead to	information disclosure 
+bounds	lead to	information disclosure 
+adobe framemaker versions .0 .4 	lead to	arbitrary code execution 
+bootloader	lead to	local escalation 
+adobe acrobat 	lead to	information disclosure 
+adobe photoshop cc versions .1 	lead to	arbitrary code execution 
+.c	lead to	local information disclosure 
+issue	lead to	unexpected application termination 
+check	lead to	buffer overflow 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+0.1	lead to	denial of service 
+requests	lead to	information disclosure 
+adobe acrobat reader versions .020 	lead to	arbitrary code execution 
+.java	lead to	local escalation 
+corruption	lead to	arbitrary code execution 
+driver	lead to	local escalation 
+adobe acrobat 	lead to	information disclosure 
+rw_t2t_ndef	lead to	local escalation 
+control	lead to	privilege escalation 
+nvidia vgpu software vulnerability 	lead to	tampering 
+corruption	lead to	arbitrary code execution 
+adobe photoshop cc versions .0 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe creative cloud desktop application versions .4 .298 	lead to	local privilege escalation 
+implementation	lead to	successful denial-of-service 
+adobe acrobat 	lead to	arbitrary code execution 
+validation	lead to	denial of service 
+.cpp	lead to	local escalation 
+0.2	lead to	information disclosure 
+information	lead to	remote information disclosure 
+issue	lead to	information disclosure 
+tobundle	lead to	remote denial 
+packagemanagerservice	lead to	local escalation 
+adobe campaign classic version .5-8984 	lead to	information disclosure 
+corruption	lead to	arbitrary code execution 
+adobe 	lead to	arbitrary code execution 
+service	lead to	remote information disclosure 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	security feature bypass 
+.cpp	lead to	remote denial 
+codec	lead to	remote information disclosure 
+adobe flash player versions .0 .171 	lead to	arbitrary code execution 
+exists	lead to	out-of-bounds write 
+security	lead to	information disclosure 
+adobe photoshop cc versions .1 	lead to	information disclosure 
+bnep_main	lead to	remote information disclosure 
+baseurl	lead to	attacks 
+corruption	lead to	arbitrary code execution 
+adobe creative cloud desktop application versions .1 	lead to	privilege escalation 
+overflow	lead to	arbitrary code execution 
+overflow	lead to	denial of service 
+validation	lead to	overflow 
+gnu	lead to	heap buffer overflow 
+vulnerability	lead to	remote code execution 
+corruption	lead to	arbitrary code execution 
+adobe player versions .3 .204 	lead to	arbitrary code execution 
+impd_drc_static_payload	lead to	remote code execution 
+0	lead to	remote code execution 
+android	lead to	buffer overwrite 
+exists	lead to	code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe illustrator versions .0 	lead to	arbitrary code execution 
+impd_drc_dynamic_payload	lead to	remote code execution 
+elevation	lead to	escalation 
+manager	lead to	local escalation 
+write	lead to	code execution 
+adobe flash player versions .0 .207 	lead to	arbitrary code execution 
+checks	lead to	arbitrary code execution 
+nvidia vgpu software vulnerability 	lead to	information disclosure 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+function	lead to	libcurl 
+read	lead to	unexpected behavior 
+adobe acrobat 	lead to	arbitrary code execution 
+corruption	lead to	arbitrary code execution 
+corruption	lead to	arbitrary code execution 
+adobe experience manager versions .5 	lead to	arbitrary javascript execution 
+user	lead to	complete system compromise 
+consumption	lead to	heap corruption 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+bounds	lead to	remote code execution 
+adobe media versions .1 	lead to	information disclosure 
+network	lead to	absence 
+adobe illustrator cc versions .1 	lead to	privilege escalation 
+.java	lead to	remote information disclosure 
+adobe digital editions versions .5 	lead to	arbitrary code execution 
+checks	lead to	arbitrary code execution 
+corruption	lead to	arbitrary code execution 
+nvidia gpu display driver 	lead to	denial of service 
+issue	lead to	sensitive 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+tnef	lead to	invalid read 
+corruption	lead to	arbitrary code execution 
+0	lead to	denial-of-service 
+escalation	lead to	local escalation 
+bypass	lead to	local escalation 
+adobe acrobat 	lead to	arbitrary code execution 
+border	lead to	system instability 
+.java	lead to	local escalation 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+pointer	lead to	type confusion 
+nvidia driver vulnerability possible use 	lead to	elevation 
+adobe acrobat 	lead to	arbitrary code execution 
+input	lead to	complete compromise 
+google chrome 	lead to	stale pointer 
+google chrome 	lead to	stale node 
+adobe acrobat 	lead to	arbitrary code execution 
+overflow	lead to	denial of service attack 
+parsing	lead to	data 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+msm	lead to	buffer overread 
+vulnerabilities	lead to	sql injection 
+hshow	lead to	code execution 
+bounds	lead to	remote information disclosure 
+nvidia shield tv experience prior 	lead to	code execution 
+adobe	lead to	arbitrary code execution 
+zziplib	lead to	denial of service attack 
+rw_i93	lead to	local escalation 
+provider	lead to	local information disclosure 
+nvidia vgpu manager vulnerability 	lead to	denial of service 
+adobe flash player versions .0 .194 	lead to	arbitrary code execution 
+adobe flash player versions .0 .194 	lead to	arbitrary code execution 
+cms	lead to	modification 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+function	lead to	data 
+adobe flash player versions .0 .207 	lead to	arbitrary code execution 
+0.2	lead to	buffer 
+spring security oauth versions prior 	lead to	remote code execution 
+adobe	lead to	sensitive 
+lack	lead to	multiple 
+execution	lead to	remote code execution 
+bounds	lead to	local escalation 
+.cc	lead to	local information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe flash player versions .0 .171 	lead to	arbitrary code execution 
+convert	lead to	local information disclosure 
+version	lead to	escalation 
+convert	lead to	floating point exception 
+adobe digital editions versions .5 	lead to	information disclosure 
+bounds	lead to	information disclosure 
+adobe acrobat 	lead to	memory leak 
+adobe coldfusion versions release .0 .0 .310739 update 	lead to	arbitrary code execution 
+bounds	lead to	remote code execution 
+adobe photoshop cc versions .1 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+parsing	lead to	open redirect 
+integer	lead to	local escalation 
+rw_i93	lead to	local information disclosure 
+adobe acrobat 	lead to	information disclosure 
+display	lead to	denial of service 
+version	lead to	escalation 
+adobe acrobat 	lead to	arbitrary code execution 
+application	lead to	disclosure 
+bounds	lead to	remote code execution 
+state	lead to	universal cross site scripting 
+adobe acrobat 	lead to	privilege escalation 
+nvidia dgx servers bmc versions prior 	lead to	information disclosure 
+adobe bridge versions .0 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+tiff library libtiff 	lead to	integer overflow 
+sudo default sudo configuration 	lead to	information disclosure 
+initialization	lead to	remote information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+shell	lead to	privileges 
+adobe photoshop cc versions .1 	lead to	arbitrary code execution 
+0.32	lead to	assertion failure 
+package	lead to	local escalation 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe	lead to	arbitrary code execution 
+gnu	lead to	remote denial 
+adobe photoshop cc versions .1 	lead to	arbitrary code execution 
+hcell	lead to	code-execution 
+adobe	lead to	sensitive 
+issue	lead to	arbitrary code execution 
+adobe acrobat reader versions .0 	lead to	arbitrary code execution 
+issue	lead to	arbitrary code execution 
+adobe bridge versions .0 	lead to	arbitrary code execution 
+corruption	lead to	arbitrary code execution 
+bounds	lead to	information disclosure 
+adobe	lead to	sensitive 
+adobe acrobat 	lead to	privilege escalation 
+systems	lead to	privilege escalation 
+bounds	lead to	remote code execution 
+adobe acrobat 	lead to	information disclosure 
+adobe flash player versions .0 .207 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+bounds	lead to	local information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe experience manager version .4 	lead to	sensitive information disclosure 
+adobe acrobat 	lead to	information disclosure 
+msm	lead to	buffer overwrite 
+adobe premiere pro versions .2 	lead to	arbitrary code execution 
+flash player versions .0 .153 	lead to	privilege escalation 
+adobe acrobat 	lead to	information disclosure 
+over-read	lead to	denial of service attack 
+input	lead to	heap buffer overflow 
+initialization	lead to	remote information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe bridge cc versions .0 	lead to	information disclosure 
+vulnerability	lead to	code execution 
+bounds	lead to	remote code execution 
+bounds	lead to	local escalation 
+libtiff	lead to	incorrect malloc 
+tcpips_story .dll 	lead to	buffer overflow 
+btu_hcif	lead to	local information disclosure 
+access	lead to	local escalation 
+.s	lead to	remote code execution 
+information	lead to	remote information disclosure 
+vulnerability	lead to	integer 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe	lead to	arbitrary code execution 
+extension	lead to	information disclosure 
+adobe flash player versions .0 .207 	lead to	arbitrary code execution 
+adobe acrobat reader versions .0 	lead to	arbitrary code execution 
+activitymanagerservice	lead to	local information disclosure 
+adobe flash player versions .0 .186 	lead to	arbitrary code execution 
+issue	lead to	arbitrary code execution 
+state	lead to	arbitrary code execution 
+issue	lead to	unexpected application termination 
+adobe acrobat 	lead to	arbitrary code execution 
+products	lead to	use 
+devices	lead to	remote code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat reader versions .020 	lead to	arbitrary code execution 
+magento versions .3 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+adobe campaign classic version .5-8984 	lead to	arbitrary 
+buffer	lead to	infinite loop 
+parcel	lead to	local escalation 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe flash player versions .0 .127 	lead to	arbitrary code execution 
+adobe flash player versions .0 .156 	lead to	arbitrary code execution 
+0.2	lead to	http cache poisoning 
+0.8	lead to	system 
+iris	lead to	local escalation 
+buffer overflow 	lead to	denial of service 
+qsee	lead to	unexpected behavior 
+0	lead to	information disclosure 
+activitymanagerservice	lead to	local information disclosure 
+adobe acrobat 	lead to	application denial-of-service 
+adobe coldfusion builder versions update 	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+adobe experience manager versions .5 .4 .3 	lead to	sensitive information disclosure 
+leak	lead to	denial of service 
+document	lead to	skcanvas object 
+adobe flash player versions .0 .131 	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+check	lead to	local information disclosure 
+0.3	lead to	denial of service 
+over-read	lead to	denial of service 
+adobe flash player versions .0 .207 	lead to	arbitrary code execution 
+adobe flash player versions .0 .171 	lead to	arbitrary code execution 
+adobe experience manager versions .4 .3 .2 .1 	lead to	sensitive information disclosure 
+adobe photoshop cc versions .0 	lead to	arbitrary code execution 
+extension	lead to	information disclosure 
+phnxpextns_mifarestd	lead to	local escalation 
+adobe	lead to	sensitive 
+bounds	lead to	remote information disclosure 
+condition	lead to	local escalation 
+execution	lead to	complete system compromise 
+overflow	lead to	information disclosure 
+bounds	lead to	local information disclosure 
+adobe media versions .1 	lead to	information disclosure 
+huawei utps 	lead to	truncation 
+adobe acrobat 	lead to	information disclosure 
+http	lead to	denial of service 
+adobe experience manager versions .5 .4 .3 .2 .1 	lead to	sensitive information disclosure 
+.c	lead to	local escalation 
+adobe acrobat 	lead to	information disclosure 
+corruption	lead to	arbitrary code execution 
+0	lead to	remote code execution 
+crate	lead to	data 
+memory	lead to	local escalation 
+forgery	lead to	creation 
+magento versions .5-p1 	lead to	arbitrary code execution 
+adobe acrobat reader versions .020 	lead to	arbitrary code execution 
+access	lead to	information disclosure 
+.cpp	lead to	local escalation 
+security	lead to	local information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+devices	lead to	disclosure of information 
+corruption	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+eas_mdls	lead to	remote information disclosure 
+.java	lead to	local escalation 
+adobe acrobat 	lead to	information disclosure 
+adobe media version .0 .2 	lead to	remote code execution 
+crash	lead to	local privilege escalation 
+cli	lead to	complete system compromise 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+ox	lead to	session hijacking 
+android	lead to	device node 
+validation	lead to	arbitrary code execution 
+experience	lead to	code execution 
+check	lead to	out-of-bound access 
+vulnerability	lead to	module crash 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+issue	lead to	code execution 
+adobe acrobat 	lead to	information disclosure 
+length	lead to	buffer overflow 
+adobe acrobat 	lead to	information disclosure 
+adobe illustrator versions .0 	lead to	arbitrary code execution 
+attackers	lead to	arbitrary 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+core	lead to	disclosure 
+mode	lead to	local information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+ikev2 	lead to	system 
+magento versions .3 	lead to	unauthorized access 
+devid	lead to	arbitrary 
+driver	lead to	untrusted pointer dereference 
+adobe	lead to	sensitive 
+access	lead to	information disclosure 
+overflow	lead to	remote denial 
+adobe experience manager versions .5 .4 .3 .2 .1 	lead to	sensitive information disclosure 
+gatt_cl	lead to	remote information disclosure 
+application	lead to	out-of-bounds write 
+corruption	lead to	arbitrary code execution 
+adobe acrobat reader versions .020 	lead to	arbitrary code execution 
+bytes	lead to	information disclosure 
+display	lead to	denial of service 
+networks	lead to	denial of service 
+adobe	lead to	sensitive 
+passmark	lead to	arbitrary 
+adobe bridge versions .0 	lead to	arbitrary code execution 
+attackers	lead to	arbitrary 
+parser	lead to	remote information disclosure 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+0	lead to	denial of service attack 
+adobe acrobat 	lead to	arbitrary code execution 
+corruption	lead to	out-of-bounds write 
+adobe acrobat 	lead to	information disclosure 
+adobe flash player versions .0 .205 	lead to	arbitrary code execution 
+adobe framemaker versions .0 .4 	lead to	arbitrary code execution 
+corruption	lead to	arbitrary code execution 
+editions	lead to	disclosure of memory 
+adobe illustrator versions .1 	lead to	arbitrary code execution 
+0.28	lead to	denial of service 
+adobe dng software development kit sdk .5 	lead to	information disclosure 
+corruption	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+adobe illustrator versions .0 	lead to	arbitrary code execution 
+bounds	lead to	remote code execution 
+imagemagick	lead to	impact 
+mpeg4extractor	lead to	remote denial 
+rw_t3t	lead to	local escalation 
+function	lead to	local elevation 
+notificationmanagerservice	lead to	local escalation 
+nvidia virtual gpu manager versions vulnerability 	lead to	denial of service 
+checks	lead to	denial of service 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+.cc	lead to	local information disclosure 
+information	lead to	remote information disclosure 
+hshow	lead to	code execution 
+adobe	lead to	arbitrary code execution 
+vulnerability	lead to	session hijacking 
+magento versions .4 .1 earlier .4 .0-p1 earlier 	lead to	unauthorized access 
+adobe photoshop cc versions .1 	lead to	memory leak 
+bounds	lead to	remote information disclosure 
+nvidia gpu display driver vulnerability 	lead to	denial of service 
+adobe acrobat reader versions .0 	lead to	arbitrary code execution 
+bounds	lead to	remote information disclosure 
+information	lead to	remote information disclosure 
+guard	lead to	session hijacking 
+adobe acrobat 	lead to	information disclosure 
+handling	lead to	universal cross site scripting 
+experience	lead to	code execution 
+corruption	lead to	arbitrary code execution 
+pixar	lead to	null pointer dereference 
+functions	lead to	local escalation 
+adobe digital editions versions .5 	lead to	information disclosure 
+adobe digital editions versions .5 	lead to	information disclosure 
+display	lead to	denial of service 
+bounds	lead to	remote information disclosure 
+fingertips	lead to	local escalation 
+adobe acrobat 	lead to	arbitrary code execution 
+bounds	lead to	information disclosure 
+mnh	lead to	escalation of privilege 
+adobe flash player versions .0 .205 	lead to	arbitrary code execution 
+android	lead to	buffer overflow 
+overflow	lead to	unexpected application termination 
+mozilla firefox 	lead to	dangling pointer 
+adobe dng software development kit sdk .5 	lead to	arbitrary code execution 
+adobe acrobat reader versions .020 	lead to	arbitrary code execution 
+security	lead to	out of bound array access 
+bounds	lead to	local information disclosure 
+permission	lead to	local information disclosure 
+cisco	lead to	denial of service 
+issue	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+bounds	lead to	local escalation 
+editions	lead to	disclosure of memory 
+adobe acrobat 	lead to	information disclosure 
+bounds	lead to	remote denial 
+adobe	lead to	sensitive 
+adobe acrobat 	lead to	information disclosure 
+abort	lead to	denial of service attack 
+adobe acrobat 	lead to	arbitrary code execution 
+web	lead to	arbitrary remote code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+.c	lead to	situation 
+0	lead to	complete compromise 
+adobe acrobat 	lead to	information disclosure 
+adobe coldfusion update 	lead to	privilege escalation 
+.cc	lead to	local escalation 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe versions .7 	lead to	privilege escalation 
+display	lead to	code execution 
+corruption	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe framemaker versions .0 .4 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+llcp_util	lead to	local information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+data	lead to	use 
+function	lead to	denial of service 
+display	lead to	denial of service 
+experience	lead to	local privilege escalation 
+gnu	lead to	heap buffer overflow 
+bnep_main	lead to	remote information disclosure 
+disclosure	lead to	kernel address space layout randomization 
+companiondevicemanagerservice	lead to	local escalation 
+0.1	lead to	heap 
+bounds	lead to	local information disclosure 
+cisco ironport security appliance 	lead to	mitm 
+jt2go	lead to	pointer 
+flaw	lead to	out 
+adobe acrobat 	lead to	information disclosure 
+injection	lead to	sql injection 
+adobe acrobat 	lead to	arbitrary code execution 
+fingertips	lead to	local escalation 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+google chrome 	lead to	stale pointer 
+service	lead to	local information disclosure 
+bounds	lead to	local information disclosure 
+function	lead to	denial of service 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+convert	lead to	heap-based buffer over-read 
+index	lead to	invalid pointer dereference 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+.java	lead to	local escalation 
+nagios xi version xi-5 .7 .5 	lead to	os command injection 
+adobe acrobat 	lead to	arbitrary code execution 
+rockwell automation rslinx enterprise software .exe cpr9 cpr9-sr1 cpr9-sr2 cpr9-sr3 cpr9-sr4 cpr9-sr5 cpr9-sr5 .1 	lead to	service crash 
+adobe flash player versions .0 .161 	lead to	arbitrary code execution 
+eas_mdls	lead to	remote denial 
+write	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+magento versions .4 .1 earlier .4 .0-p1 earlier 	lead to	unauthorized access 
+consumption	lead to	remote denial 
+google chrome 	lead to	stale pointer 
+.c	lead to	remote denial 
+adobe acrobat 	lead to	information disclosure 
+.cc	lead to	local information disclosure 
+exists	lead to	out 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+subsystem	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+0.3	lead to	denial of service 
+nvidia dgx servers dgx-1 	lead to	information disclosure 
+adobe bridge cc versions .1 	lead to	information disclosure 
+read	lead to	arbitrary code execution 
+huawei honor v10 smartphones 	lead to	several 
+vulnerability	lead to	memory corruption 
+gnu	lead to	segmentation fault 
+display	lead to	code execution 
+crash	lead to	local denial 
+products	lead to	use 
+display	lead to	denial of service 
+bounds	lead to	local information disclosure 
+adobe acrobat 	lead to	information disclosure 
+adobe flash player versions .0 .194 	lead to	arbitrary code execution 
+gnu	lead to	attempted 
+security	lead to	buffer overflow 
+magento versions .14 .5 	lead to	sensitive information disclosure 
+vulnerability	lead to	buffer overflow 
+adobe photoshop cc versions .1 	lead to	memory leak 
+corruption	lead to	arbitrary code execution 
+version	lead to	denial of service condition 
+memory	lead to	remote denial 
+impd_drc_static_payload	lead to	remote code execution 
+bypass	lead to	local information disclosure 
+bounds	lead to	remote code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+adobe digital editions .5 	lead to	arbitrary code execution 
+lack 	lead to	buffer overflow 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+checks	lead to	heap corruption 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+exists	lead to	out-of-bounds write 
+corruption	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	security bypass 
+policy	lead to	local information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe dng software development kit sdk .5 	lead to	information disclosure 
+experience	lead to	information disclosure 
+validation	lead to	os command injection 
+adobe acrobat 	lead to	information disclosure 
+adobe media versions .1 	lead to	arbitrary code execution 
+adobe premiere rush versions .5 	lead to	arbitrary code execution 
+vmware workstation .x 	lead to	code execution 
+adobe acrobat 	lead to	information disclosure 
+adobe digital editions versions .5 	lead to	arbitrary code execution 
+adobe experience manager versions .4 .3 .2 .1 	lead to	sensitive information disclosure 
+adobe experience manager versions .5 	lead to	sensitive information disclosure 
+excel	lead to	memory corruption 
+.c	lead to	local escalation 
+aacdecoder	lead to	remote code execution 
+adobe media versions .2 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+corruption	lead to	arbitrary code execution 
+0	lead to	remote code execution 
+vulnerability	lead to	malicious code execution 
+information	lead to	information disclosure 
+state	lead to	universal cross site scripting 
+adobe acrobat 	lead to	arbitrary code execution 
+online ordering system .0 vulnerable 	lead to	remote code execution 
+adobe flash player versions .0 .113 	lead to	information disclosure 
+termination	lead to	remote denial 
+kyocera	lead to	session hijacking 
+network	lead to	absence 
+attackers	lead to	execution 
+windows	lead to	denial of service 
+magento versions .4 .1 earlier .4 .0-p1 earlier 	lead to	arbitrary javascript execution 
+protection	lead to	user 
+bounds	lead to	local information disclosure 
+random	lead to	local information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+vulnerability	lead to	arbitrary code execution 
+adobe experience manager versions .4 .3 .2 .1 	lead to	sensitive information disclosure 
+.c	lead to	crash 
+checks	lead to	arbitrary code execution 
+bounds	lead to	local information disclosure 
+write	lead to	arbitrary code execution 
+bounds	lead to	remote code execution 
+products	lead to	memory leak 
+kibana versions 	lead to	attacker 
+issue	lead to	arbitrary code execution 
+packagemanagerservice	lead to	local escalation 
+ox	lead to	session hijacking 
+validation	lead to	extended denial 
+adobe acrobat 	lead to	information disclosure 
+information	lead to	local information disclosure 
+bounds	lead to	local escalation 
+adobe acrobat 	lead to	arbitrary code execution 
+access	lead to	remote denial 
+binder	lead to	local escalation 
+msm	lead to	buffer over-read 
+readfromparcel	lead to	local escalation 
+read	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+read	lead to	unexpected application termination 
+php	lead to	information disclosure 
+information	lead to	information disclosure 
+leak	lead to	potential 
+adobe photoshop cc versions .0 	lead to	arbitrary code execution 
+bounds	lead to	information disclosure 
+checks	lead to	cross site 
+adobe	lead to	sensitive 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+console	lead to	disclosure 
+adobe flash player versions .0 .207 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+bounds	lead to	remote information disclosure 
+exists	lead to	out-of-bounds write 
+overflow	lead to	buffer overflow 
+magento versions .5-p1 	lead to	arbitrary code execution 
+intent	lead to	local denial 
+vulnerability	lead to	code execution 
+tcpips_story .dll 	lead to	buffer overflow 
+directory	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+exists	lead to	out-of-bounds write 
+overflow	lead to	denial of service attack 
+.c	lead to	remote denial 
+driver	lead to	remote denial 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat reader .009 .20058 	lead to	arbitrary code execution 
+permission	lead to	local information disclosure 
+manager	lead to	local disclosure 
+google chrome 	lead to	stale pointer 
+display	lead to	denial of service 
+corruption	lead to	arbitrary code execution 
+disclosure	lead to	kernel address space layout randomization 
+btm_sec	lead to	local information disclosure 
+adobe flash player .0 .134 	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+adobe flash player versions .0 .207 	lead to	arbitrary code execution 
+cli	lead to	privileges 
+adobe acrobat 	lead to	arbitrary code execution 
+bounds	lead to	remote information disclosure 
+nvidia virtual gpu manager vulnerability 	lead to	denial of service 
+adobe photoshop cc versions .0 	lead to	arbitrary code execution 
+security	lead to	memory over read 
+overflow	lead to	denial of service attack 
+issue	lead to	arbitrary code execution 
+lack 	lead to	use 
+adobe framemaker versions .0 .4 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+0.1	lead to	man 
+adobe acrobat 	lead to	arbitrary code execution 
+libredwg	lead to	attempted 
+adobe bridge versions .0 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	security feature bypass 
+ox	lead to	session hijacking 
+magento versions .4 .1 earlier .4 .0-p1 earlier 	lead to	unauthorized access 
+handling	lead to	universal cross site scripting 
+adobe acrobat 	lead to	arbitrary code execution 
+corruption	lead to	arbitrary code execution 
+corruption	lead to	arbitrary code execution 
+drmplugin	lead to	local escalation 
+apps	lead to	cross-origin 
+adobe	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+check	lead to	corruption 
+avrc_pars_ct	lead to	remote denial 
+adobe acrobat 	lead to	information disclosure 
+bounds	lead to	remote code execution 
+adobe photoshop cc versions .1 	lead to	arbitrary code execution 
+rconfig	lead to	command execution 
+adobe acrobat 	lead to	information disclosure 
+kibana versions 	lead to	attacker 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+adobe acrobat 	lead to	information disclosure 
+lack 	lead to	buffer overflow 
+.java	lead to	local information disclosure 
+ihevcd_decode	lead to	remote denial 
+adobe acrobat 	lead to	arbitrary code execution 
+vulnerability	lead to	memory corruption 
+vulnerability	lead to	code execution 
+injection	lead to	sql injection 
+gnu	lead to	heap buffer overflow 
+system	lead to	local escalation 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+adobe photoshop cc versions .1 	lead to	memory leak 
+service	lead to	memory exhaustion 
+function	lead to	libcurl 
+adobe acrobat 	lead to	information disclosure 
+.java	lead to	local escalation 
+adobe acrobat 	lead to	information disclosure 
+0.1	lead to	crash 
+0.2	lead to	complete compromise 
+issue	lead to	code execution and/or system crash 
+0.1	lead to	remote code execution 
+bounds	lead to	remote information disclosure 
+magento versions .3 	lead to	arbitrary code execution 
+android	lead to	use 
+sdp_server	lead to	remote code execution 
+disclosure	lead to	local information disclosure 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe bridge versions .0 	lead to	arbitrary code execution 
+adobe experience manager versions .5 .4 .3 	lead to	sensitive information disclosure 
+security	lead to	buffer overread 
+adobe flash player versions .0 .205 	lead to	arbitrary code execution 
+function	lead to	remote denial 
+adobe acrobat 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+gpu	lead to	denial of service 
+initialization	lead to	remote information disclosure 
+integer	lead to	authentication bypass 
+adobe flash player versions .0 .148 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+chip	lead to	local escalation 
+adobe	lead to	sensitive 
+activitymanagerservice	lead to	local escalation 
+huawei nip6800 versions v500r001c30 v500r001c60spc500 	lead to	dangling 
+aruba versions 	lead to	privilege escalation 
+corruption	lead to	heap corruption 
+driver	lead to	buffer 
+bounds	lead to	local escalation 
+tapjacking	lead to	local escalation 
+ox	lead to	session hijacking 
+rw_t4t	lead to	local escalation 
+adobe flash player versions .0 .207 	lead to	arbitrary code execution 
+adobe acrobat 	lead to	information disclosure 
+version	lead to	denial of service attack 
+eas_mdls	lead to	remote information disclosure 
+ox	lead to	session hijacking 
+rconfig	lead to	command execution 
+permission	lead to	local escalation 
+version	lead to	local escalation 
+adobe acrobat 	lead to	information disclosure 
+nvidia vgpu manager vulnerability 	lead to	tampering 
+google chrome 	lead to	stale pointer 
+bounds	lead to	remote denial 
+command	lead to	local escalation 
+termination	lead to	remote denial 
+0	lead to	dos 
+msm	lead to	use 
+adobe acrobat 	lead to	arbitrary code execution 
+prototype pollution vulnerability 	lead to	remote code execution 
+overflow	lead to	arbitrary code execution 
+vulnerability	lead to	information disclosure 
+netty open-source asynchronous event-driven network application framework 	lead to	information disclosure 
+adobe coldfusion update 	lead to	arbitrary code execution 
+adobe	lead to	sensitive 
+adobe acrobat 	lead to	information disclosure 
+.cc	lead to	local information disclosure 
+magento versions .3 	lead to	sensitive information disclosure 
+adobe illustrator cc versions .0 	lead to	arbitrary code execution 
+corruption	lead to	arbitrary code execution 
+corruption	lead to	arbitrary code execution 
+consumption	lead to	heap corruption 
+exif-entry	lead to	local information disclosure 
+skswizzler	lead to	remote code execution 
+adobe acrobat 	lead to	privilege escalation 
+issue	lead to	arbitrary code execution 
+adobe acrobat 	lead to	arbitrary code execution 
+termination	lead to	remote denial 
+products	lead to	out-of-bounds write 
+networks	lead to	routing process daemon 
